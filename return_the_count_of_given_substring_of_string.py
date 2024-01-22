@@ -10,7 +10,9 @@
 # Emma appeared 2 times
 
 #Give the string according to the given
+given_string = "Emma is good developer. Emma is a writer."
 
 #Count how many times a substring chosen has appeared in the given
+substring_count = given_string.count("Emma")
 
 #Display the output
