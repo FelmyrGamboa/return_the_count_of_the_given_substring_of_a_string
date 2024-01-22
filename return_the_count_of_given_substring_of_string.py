@@ -16,3 +16,4 @@ given_string = "Emma is good developer. Emma is a writer."
 substring_count = given_string.count("Emma")
 
 #Display the output
+print("Emma appeared ", substring_count, "times.")
